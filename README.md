@@ -1,7 +1,7 @@
 # Hi there I'm Saravanan👋
 
 ## 💫 About Me:
-🚀 I'm a passionate full-stack developer creating smooth web experiences. <br>🎯  Enthusiastic about open-source, committed to advancing technology together. <br>🏆 Proud participant of 7 hackathons, constantly seeking innovative solutions. <br>💬 Ask me about Web Development.<br>🙋‍♂️ Loving to collaborate<br>
+🚀 I'm a passionate full-stack developer creating smooth web experiences. <br>🎯  Enthusiastic about open-source, committed to advancing technology together. <br>🏆 Proud participant of 7 hackathons, constantly seeking innovative solutions. <br>💬 Ask me about Web Development.<br>🙋‍♂️ I love to collaborate<br>
 
 
 ## 🌐 Socials:
